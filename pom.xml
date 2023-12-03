@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.hunglp</groupId>
-	<artifactId>spring-k9s-basic</artifactId>
+	<artifactId>spring-k8s-basic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-k9s-basic</name>
-	<description>Springboot basic deploy k9s</description>
+	<name>spring-k8s-basic</name>
+	<description>Springboot basic deploy k8s</description>
 	<properties>
 		<java.version>8</java.version>
 	</properties>
